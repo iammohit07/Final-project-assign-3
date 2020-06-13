@@ -1,0 +1,84 @@
+ {
+    "hero" : "SOME ARMY HEROES",
+    "active" : true,
+    "details" : [
+      {
+        "name" : "Vikram Batra",
+        "age" : 24,
+        "rank"  : "CAPTAIN",
+        "story" : [
+          "He led one of the toughest war in Kashmir and was also called Sher Shah",
+          "He was instrumental in recapturing Peak 5140, which is located at an altitude of 17,000 feet.",
+          " Batra was seriously injured but still managed to kill three enemy soldiers in close combat. ",
+          " After capturing Peak 5140, he went on yet another difficult mission to recapture Peak 4875 on July 7, 1999.",
+          "Batra made a call to his father before he left and told him about the crucial mission. Hardly did he know that this would be his last call home."
+        ] },
+      {
+        "name" : "Major General Ian Cardozo",
+        "age" : 82,
+        "rank" : "Major General ",
+        "story" : [
+          "Major General Ian Cardozo, who has many achievements to his name, will always be known for his immense courage in the 1971 war with Pakistan.",
+          "He was, at the time, a young major with 5 Gorkha Rifles. During the war, he stepped on a landmine and severely injured his leg.",
+          "When even the doctor could not cut his leg, Cardozo asked for a khukri (the Gorkha knife) and cut his own leg off, saying, “Now go and bury it!”"
+        ]
+      },
+      {
+        "name" : " Brigadier Mohammad Usman",
+        "age" : 35,
+        "rank" : " Brigadier",
+        "story" : [
+          "This brave soldier has the high honour of being the youngest recipient of the Param Vir Chakra. He received this award at the age of 19 for his actions on July 4,1999, during the Kargil war.",
+          " He volunteered for the task of capturing three strategic bunkers on Tiger Hill, which were situated at the top of a vertical, snow-covered, 16,500 feet high cliff face.",
+          "Despite being severely injured, Yadav kept climbing and finished the remaining 60 feet to reach the top of the cliff. Though in immense pain, Yadav crawled to the first enemy bunker and lobbed a grenade, which killed four Pakistani soldiers and set back the enemy fire. This gave the rest of the Indian platoon the opportunity to climb up the cliff face."
+          ]
+      },
+      {
+        "name" : " Subedar Yogendra Singh Yadav",
+        "age" : 40,
+        "rank" : "Subedar",
+        "story" : [
+          "This man of steel joined the Indian army in 1934. During the Indo-Pakistan war of 1947/48, Brigadier Usman repulsed a fierce attack on Naushera and Jhangar, two highly strategic locations in Jammu and Kashmir, and was named by his fellow soldiers ‘The Lion of Naushera.’",
+          "At the time of the Partition, he was made the offer of becoming the Chief of the Pakistani Army but he chose to stay in India.",
+          "After the Battle of Naushera, where the Pakistanis suffered heavy casualties at his hands, the same country that had courted him to become the chief of the army, now went ahead and placed prize money of Rs. 50,000 on his head."
+        ]
+      },
+      {
+        "name" : " Rifleman Jaswant Singh Rawat",
+        "age" : 21,
+        "rank" : " Rifleman",
+        "story" : [
+          "A hero of the 1962 Indo-China war, Rifleman Jaswant Singh Rawat of the 4th Garhwal Rifles Infantry Regiment is the only soldier in the history of the Indian Army who has risen through the ranks after his death. He was ‘promoted’ to the rank of Major General 40 years after his death, and is still believed to ‘command’ troops guarding India’s eastern frontiers with China.",
+          "During the 1962 war, soldiers were ordered to vacate their posts as soon as possible due to heavy casualties against the Chinese at the Battle of Nuranang. But Jaswant did not leave his position and continued to fight even after the other soldiers had left."
+        ]
+      },
+      {
+        "name" : " Second Lieutenant Arun Khetarpal",
+        "age" : 21,
+        "rank" : "Second Lieutenant",
+        "story" : [
+          "He died in the Battle of Basantar during the Indo-Pakistan War of 1971, where his brave actions earned him the Param Vir Chakra posthumously.",
+          "Khetarpal showed immense courage and strong will when Pakistani armour, which was superior in strength, counterattacked at Jarpal, in the Shakargarh sector, in December, 1971. Though Khetarpal was in a different squadron, he rushed to help, moving towards the enemy, overrunning the defences with his tanks, and capturing Pakistani infantry and weapons."
+        ]
+      },
+      {
+        "name" : "Major Somnath Sharma",
+        "age" : 24,
+        "rank" : " Major",
+        "story" : [
+          "This brave soldier of Fourth Kumaon regiment sacrificed his life at the young age of 24. With his hand already in plaster from an injury sustained in a hockey game, Sharma insisted on being with his company in combat when they were airlifted to Srinagar on October 30, 1947 to fight Pakistani invaders.",
+          "When heavy casualties adversely affected their firing power, Sharma, with his left hand in plaster, took to filling the magazines for the men operating light machine guns. While he was busy fighting, a mortar shell exploded on the ammunition near him, killing him instantly."
+        ]
+      },
+      {
+        "name" : " Major Ramaswamy Parameswaran",
+        "age" : 41,
+        "rank" : "Major",
+        "story" : [
+          "Born in Mumbai, Maharashtra, Parameswaran is yet another braveheart who died at the age of 41 in 1987, in India’s Sri Lanka operations. He was awarded the Param Vir Chakra, posthumously.",
+          " During the hand-to-hand combat, a militant shot him in the chest. Undaunted, Major Parameswaran snatched the rifle from the militant and shot him dead",
+          "Barely able to stand now, he continued giving orders to his men and inspired them to fight till his last breath. The Indians managed to kill five militants and recovered three rifles and two rocket launchers from the militants."
+        ]
+      }
+    ]
+  }
