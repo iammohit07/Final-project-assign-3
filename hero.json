@@ -1,0 +1,34 @@
+ {
+    "hero" : "SOME ARMY HEROES",
+    "details" : [
+      {
+        "name" : "Vikram Batra",
+        "age" : 24,
+        "born" : " 9 september 1974",
+        "story" : [
+          "He led one of the toughest war in Kashmir and was also called Sher Shah"
+        ] },
+      {
+        "name" : "Madame Uppercut",
+        "age" : 39,
+        "born" : "Jane Wilson",
+        "story" : [
+          "Million tonne punch",
+          "Damage resistance",
+          "Superhuman reflexes"
+        ]
+      },
+      {
+        "name" : "Eternal Flame",
+        "age" : 1000000,
+        "born" : "Unknown",
+        "story" : [
+          "Immortality",
+          "Heat Immunity",
+          "Inferno",
+          "Teleportation",
+          "Interdimensional travel"
+        ]
+      }
+    ]
+  }
